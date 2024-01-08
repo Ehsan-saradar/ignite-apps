@@ -6,8 +6,8 @@ import (
 
 	hplugin "github.com/hashicorp/go-plugin"
 
+	"github.com/Ehsan-saradar/ignite-apps/hello-world/cmd"
 	"github.com/ignite/cli/v28/ignite/services/plugin"
-	"hello-world/cmd"
 )
 
 type app struct{}

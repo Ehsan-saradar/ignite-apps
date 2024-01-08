@@ -1,4 +1,4 @@
-module hello-world
+module github.com/Ehsan-saradar/ignite-apps/example2
 
 go 1.21.1
 

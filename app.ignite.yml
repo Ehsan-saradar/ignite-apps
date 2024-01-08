@@ -1,5 +1,11 @@
 version: '1.0.0'
 apps:
+  example1:
+    description: Description of example1 ignite application
+    path: ./example1
+  example2:
+    description: Description of example2 ignite application
+    path: ./example2
   hello-world:
     description: hello-world is an awesome Ignite application!
-    path: ./
+    path: ./hello-world
